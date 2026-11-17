@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pydantic-settings
+python-multipart
+argon2-cffi
+pyjwt
+pytesseract
+opencv-python-headless
+numpy
+Pillow
+PyMuPDF
+pdfplumber
+rapidfuzz
+reportlab
